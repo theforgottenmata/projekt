@@ -1,0 +1,12 @@
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/bin/Debug/netcoreapp3.1/ProjectNew.deps.json
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/bin/Debug/netcoreapp3.1/ProjectNew.runtimeconfig.json
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/bin/Debug/netcoreapp3.1/ProjectNew.runtimeconfig.dev.json
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/bin/Debug/netcoreapp3.1/ProjectNew.dll
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/bin/Debug/netcoreapp3.1/ProjectNew.pdb
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/obj/Debug/netcoreapp3.1/ProjectNew.csprojAssemblyReference.cache
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/obj/Debug/netcoreapp3.1/ProjectNew.AssemblyInfoInputs.cache
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/obj/Debug/netcoreapp3.1/ProjectNew.AssemblyInfo.cs
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/obj/Debug/netcoreapp3.1/ProjectNew.csproj.CoreCompileInputs.cache
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/obj/Debug/netcoreapp3.1/ProjectNew.dll
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/obj/Debug/netcoreapp3.1/ProjectNew.pdb
+/Users/martinslabek/ProjectOriginal-master/ProjectNew/obj/Debug/netcoreapp3.1/ProjectNew.genruntimeconfig.cache
